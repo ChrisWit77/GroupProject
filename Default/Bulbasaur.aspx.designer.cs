@@ -31,6 +31,15 @@ namespace Default {
         protected global::System.Web.UI.WebControls.Label lblBaseStats;
         
         /// <summary>
+        /// lblMoves control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblMoves;
+        
+        /// <summary>
         /// lblStamina control.
         /// </summary>
         /// <remarks>
@@ -38,6 +47,15 @@ namespace Default {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblStamina;
+        
+        /// <summary>
+        /// lblType control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblType;
         
         /// <summary>
         /// lblAttack control.
@@ -49,6 +67,15 @@ namespace Default {
         protected global::System.Web.UI.WebControls.Label lblAttack;
         
         /// <summary>
+        /// Label1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Label1;
+        
+        /// <summary>
         /// lblDefense control.
         /// </summary>
         /// <remarks>
@@ -56,6 +83,15 @@ namespace Default {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblDefense;
+        
+        /// <summary>
+        /// lblPower control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblPower;
         
         /// <summary>
         /// lblCPGain control.
@@ -67,6 +103,15 @@ namespace Default {
         protected global::System.Web.UI.WebControls.Label lblCPGain;
         
         /// <summary>
+        /// lblCooldown control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblCooldown;
+        
+        /// <summary>
         /// lblMaxCP control.
         /// </summary>
         /// <remarks>
@@ -74,6 +119,15 @@ namespace Default {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblMaxCP;
+        
+        /// <summary>
+        /// lbl control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl;
         
         /// <summary>
         /// lblStatRankings control.
